@@ -6,7 +6,7 @@
     * from regions
     * from depth field skeleton
     * distribute waypoints uniformly
-    * disc based navigation generation
+    * disc based navigation generation (vrlab.epfl.ch/~jpettre/publis/05vcrowdpettre.pdf)
 
 = TODO =
 
