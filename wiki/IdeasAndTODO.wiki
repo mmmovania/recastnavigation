@@ -1,5 +1,3 @@
-#Ideas and TODO#
-
 = Ideas =
 
   * Automatic hide point/segment generation
