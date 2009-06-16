@@ -1,4 +1,4 @@
-#Ideas and TODO.
+#Ideas and TODO#
 
 = Ideas =
 
@@ -18,6 +18,6 @@
      - all integer
      - SSE
      - calc min/max per Y span to prevent extra work
-  * Fix detour A* heuristic
+  * Fix detour A-star heuristic
      - use float as cost, not short (and profile mem/perf change)
      - adjust start/end poly center to be start/end point
